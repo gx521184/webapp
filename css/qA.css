@@ -1,0 +1,22 @@
+﻿body{
+	background-image: url(../img/1.jpeg);
+}
+p{
+	font-family: "黑体";
+	font-size: 20px;
+
+}
+button{
+	background-image: url(../img/2.jpg);
+	
+	width: 100px;
+	height: 50px;
+	border-radius: 20%;
+	
+	font-size: 20px;
+	color: blue;
+	position: relative;
+	left: 130px;
+	top:20px;
+
+}
