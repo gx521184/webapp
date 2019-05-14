@@ -1,4 +1,4 @@
-body{
+﻿body{
 	background-image: url(../img/1.jpeg);
 }
 h2{
@@ -12,17 +12,21 @@ p{
 	color: coral;
 	
 }
+div{
+display: flex;
+justify-content: center;/*弹力盒子*/
+
+}
 button{
 	background-image: url(../img/2.jpg);
 	background-repeat: no-repeat;
 	width: 100px;
 	height: 100px;
 	border-radius: 50%;
+
 	/*position: relative;
 	top:20px;
 	left: 130px;*/
-	display: flex;/*弹力盒子*/
-align-items: center;
 	font-size: 50px;
 	color: blue;
 }
