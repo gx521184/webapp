@@ -18,9 +18,11 @@ button{
 	width: 100px;
 	height: 100px;
 	border-radius: 50%;
-	position: relative;
+	/*position: relative;
 	top:20px;
-	left: 130px;
+	left: 130px;*/
+	display: flex;/*弹力盒子*/
+align-items: center;
 	font-size: 50px;
 	color: blue;
 }
